@@ -31,7 +31,7 @@ I'm a results-driven SQA Engineer and System Analyst with over **1 year** of exp
 
 - 🔭 Currently working at **Connectauz**
 - 💡 Exploring **machine learning** and **test automation**
-- ⚙️ Tools: Selenium, Postman, JIRA, GitHub, AutoCAD
+- ⚙️ Tools: Selenium, Postman, JIRA, GitHub
 - 🧠 Learning: React, TypeScript, Cypress
 - ⚽ Football captain, coding competitor, ex-VP of Primeasia CSE Club
 
