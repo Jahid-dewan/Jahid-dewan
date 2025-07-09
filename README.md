@@ -29,7 +29,7 @@
 
 I'm a results-driven SQA Engineer and System Analyst with over **1 year** of experience in testing and automating web/mobile apps. Skilled in manual & automated testing, Agile environments, bug tracking, and frontend/backend validation.
 
-- 🔭 Currently working at **Connectauz**
+- 🔭 Currently working at ** Connectauz PTY LTD **
 - 💡 Exploring ** System Anaylist ** and **test automation**
 - ⚙️ Tools: Selenium, Postman, JIRA,VS Code  GitHub
 - 🧠 Learning: React, TypeScript, Cypress
