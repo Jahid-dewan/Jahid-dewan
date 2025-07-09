@@ -30,8 +30,8 @@
 I'm a results-driven SQA Engineer and System Analyst with over **1 year** of experience in testing and automating web/mobile apps. Skilled in manual & automated testing, Agile environments, bug tracking, and frontend/backend validation.
 
 - 🔭 Currently working at **Connectauz**
-- 💡 Exploring **machine learning** and **test automation**
-- ⚙️ Tools: Selenium, Postman, JIRA, GitHub
+- 💡 Exploring ** System Anaylist ** and **test automation**
+- ⚙️ Tools: Selenium, Postman, JIRA,VS Code  GitHub
 - 🧠 Learning: React, TypeScript, Cypress
 - ⚽ Football captain, coding competitor, ex-VP of Primeasia CSE Club
 
@@ -65,13 +65,7 @@ I'm a results-driven SQA Engineer and System Analyst with over **1 year** of exp
 
 ## 📅 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jahid-dewan&theme=react-dark&area=true)
-
----
-
-## ✍️ Blog & Writings
-
-> Coming soon... (Add links to Medium, Hashnode, or personal blog)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahid-dewan&theme=react-dark&area=true)
 
 ---
 
